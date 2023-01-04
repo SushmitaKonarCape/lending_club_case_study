@@ -17,5 +17,7 @@ Loan rejected – The company had rejected the loan and there is no transaction 
 
 
 
+Technologies used:
+EDA in  python using packages such as pandas, numpy and seaborn
 
 
